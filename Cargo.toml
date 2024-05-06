@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A basic RIFF file parser. Namely geared to clangd's IDX files."
 license = "MIT"
+repository = "https://github.com/moosedoc/griff"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
